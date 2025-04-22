@@ -1,3 +1,3 @@
 # Leetcode-Solution
 
-Leetcode solutions are categporized by language! Pick a language and take a look at solutions.
+Leetcode solutions easy to hard! Each problem will have different solutions based on languages.
